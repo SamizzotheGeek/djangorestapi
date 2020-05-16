@@ -1,1 +1,1 @@
-web: gunicorn reactdjango.wsgi --log-file -
+web: gunicorn djangorestapi.wsgi --log-file -

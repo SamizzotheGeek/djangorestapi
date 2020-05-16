@@ -25,7 +25,7 @@ SECRET_KEY = 'ez5t794z5(7qigfxz6pgcw9&_nya5-x(kj#dp)$z(=kt$oxmfe'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['samizzodjangorestapi.herokuapp.com]python','127.0.0.1']
+ALLOWED_HOSTS = ['samizzodjangorestapi.herokuapp.com','127.0.0.1']
 
 
 # Application definition
